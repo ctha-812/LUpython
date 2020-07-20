@@ -1,0 +1,17 @@
+1)What is python? What are the ways to install python in your pc?
+Python is an interpreted high level language developed by Guido Van Rossum in the year 1991.It became popular in the 2006.
+Ways to install python in pc,
+1.Anaconda navigator
+2.Python IDLE
+3.Pycharm
+
+2)What are code environments? explain it's types?
+Code environment is the place where we can write,edit,compile,and execute the code.
+Code editors:
+visual studio code or atoms
+IDE
+Pycharm,Spyder
+Notebook
+Jupyter notebook
+
+
